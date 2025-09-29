@@ -8,7 +8,7 @@
 <img width="740" height="826" alt="image" src="https://github.com/user-attachments/assets/be81b205-a6da-44c6-aad3-7bd680b9747c" />
 
 
-- Open illegal-Services.exe
+- Open illegal_Services.exe
 
 
 <img width="1852" height="918" alt="Image" src="https://github.com/user-attachments/assets/08fd7e4b-1d40-4327-9bb6-7c217f8172c1" />
