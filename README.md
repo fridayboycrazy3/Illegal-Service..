@@ -1,4 +1,4 @@
 # Illegal-Service..
 Make sure Turn Off Anti Virus
 Run as Administrator
-<img width="1872" height="980" alt="Image" src="https://github.com/user-attachments/assets/9548a918-d783-4fbc-8334-e514114ba115" />
+<img width="1852" height="918" alt="Image" src="https://github.com/user-attachments/assets/08fd7e4b-1d40-4327-9bb6-7c217f8172c1" />
